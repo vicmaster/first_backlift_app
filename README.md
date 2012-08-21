@@ -43,7 +43,7 @@ This will create a new folder in the current directory called 'backliftapp' and 
 
 To see this app running on a public web server, first change directories into the 'backliftapp' folder and type 'backlift push'.
 ```
-cd newapp
+cd backliftapp
 backlift push
 ```
 This will upload the content of the 'backliftapp' folder to Backlift. Alternatively you can use the command backlift watch.
