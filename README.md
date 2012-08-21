@@ -22,8 +22,10 @@ backlift setup 8vaW98N5RNKXtaFX
 ```
 Now you can use the Backlift CLI to communicate with the main backlift website.
 
-From time to time you should make sure that you have the most recent version of the Backlift CLI. You can check that by typing backlift --version.
-
+From time to time you should make sure that you have the most recent version of the Backlift CLI. You can check that by typing 
+```
+backlift --version
+```
 The version string outputted should match the 'Backlift CLI current version' listed in the account details section to the right. If not you can update your Backlift CLI by entering the command 
 ```
 sudo easy_install --upgrade backlift.
