@@ -60,3 +60,6 @@ You can alternatively view the website's admin page by typing backlift admin.
 
 That's all there is to it! The demo app contains a tutorial that will show you how to build a backbone.js app with Backlift. See you there!
 
+## See Demo
+
+* https://backliftapp-vicmaster.backliftapp.com/
