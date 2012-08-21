@@ -1,4 +1,4 @@
-first_backlift_app
+My first backlift app
 ==================
 
 The fastest way to get up-and-running with backbone.js
